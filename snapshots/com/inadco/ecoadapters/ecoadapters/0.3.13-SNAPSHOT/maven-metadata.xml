@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.inadco.ecoadapters</groupId>
+  <artifactId>ecoadapters</artifactId>
+  <version>0.3.13-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20110921.213749</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20110921213749</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.3.13-20110921.213747-1</value>
+        <updated>20110921213749</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.3.13-20110921.213747-1</value>
+        <updated>20110921213749</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.3.13-20110921.213747-1</value>
+        <updated>20110921213749</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>0.3.13-20110921.213747-1</value>
+        <updated>20110921213749</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
