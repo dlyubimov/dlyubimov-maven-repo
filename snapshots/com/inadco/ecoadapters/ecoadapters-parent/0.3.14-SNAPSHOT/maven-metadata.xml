@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.inadco.ecoadapters</groupId>
+  <artifactId>ecoadapters-parent</artifactId>
+  <version>0.3.14-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20110921.224338</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20110921224338</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.3.14-20110921.224338-2</value>
+        <updated>20110921224338</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
