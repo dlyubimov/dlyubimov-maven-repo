@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.inadco.hbl</groupId>
+  <artifactId>hbl-parent</artifactId>
+  <version>0.1.12-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120120.214014</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20120120214014</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.12-20120120.214014-1</value>
+        <updated>20120120214014</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
