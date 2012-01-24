@@ -5,38 +5,38 @@
   <version>0.1.12-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20120123.193210</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20120124.031111</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
-    <lastUpdated>20120123193210</lastUpdated>
+    <lastUpdated>20120124031111</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.1.12-20120123.193210-2</value>
-        <updated>20120123193210</updated>
+        <value>0.1.12-20120124.031111-3</value>
+        <updated>20120124031111</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1.12-20120123.193210-2</value>
-        <updated>20120123193210</updated>
+        <value>0.1.12-20120124.031111-3</value>
+        <updated>20120124031111</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>hadoop-job</classifier>
         <extension>jar</extension>
-        <value>0.1.12-20120123.193210-2</value>
-        <updated>20120123193210</updated>
+        <value>0.1.12-20120124.031111-3</value>
+        <updated>20120124031111</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.12-20120123.193210-2</value>
-        <updated>20120123193210</updated>
+        <value>0.1.12-20120124.031111-3</value>
+        <updated>20120124031111</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.1.12-20120123.193210-2</value>
-        <updated>20120123193210</updated>
+        <value>0.1.12-20120124.031111-3</value>
+        <updated>20120124031111</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
