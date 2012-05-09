@@ -3,11 +3,7 @@
   <groupId>com.inadco.hbl</groupId>
   <artifactId>hbl-parent</artifactId>
   <versioning>
-<<<<<<< Updated upstream
-    <release>0.2.2</release>
-=======
-    <release>0.2.0.0</release>
->>>>>>> Stashed changes
+    <release>0.2.3</release>
     <versions>
       <version>0.1.0-pre0</version>
       <version>0.1.0</version>
@@ -15,7 +11,6 @@
       <version>0.1.2</version>
       <version>0.1.3</version>
       <version>0.1.4</version>
-<<<<<<< Updated upstream
       <version>0.1.5</version>
       <version>0.1.6</version>
       <version>0.1.7</version>
@@ -34,14 +29,9 @@
       <version>0.2.0</version>
       <version>0.2.1</version>
       <version>0.2.2</version>
-    </versions>
-    <lastUpdated>20120504225848</lastUpdated>
-=======
-      <version>0.2.0+1</version>
-      <version>0.2.0a</version>
       <version>0.2.0.0</version>
+      <version>0.2.3</version>
     </versions>
-    <lastUpdated>20120508220032</lastUpdated>
->>>>>>> Stashed changes
+    <lastUpdated>20120509231115</lastUpdated>
   </versioning>
 </metadata>
